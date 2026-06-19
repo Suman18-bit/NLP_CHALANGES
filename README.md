@@ -7,6 +7,7 @@ This repository contains experiments, notebooks, and datasets focused on **senti
 
 ## 📂 Repository Contents
 - **NLP.ipynb** → Jupyter Notebook with code, explanations, and experiments.
+- **NLP2.ipynb** → Jupyter Notebook with code, explanations, and experiments.
 - **sentiment_examples.txt** → Sample dataset with positive sentiment examples.
 - **README.md** → Project overview and documentation.
 
