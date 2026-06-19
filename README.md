@@ -34,8 +34,3 @@ This repository contains experiments, notebooks, and datasets focused on **senti
 - Share reproducible notebooks for learning and collaboration.
 
 ---
-
-## 📊 Example Use Case
-```text
-Input: "I love learning NLP with hands-on projects!"
-Output: Positive Sentiment ✅
