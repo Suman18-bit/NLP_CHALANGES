@@ -9,7 +9,7 @@ This repository contains experiments, notebooks, and datasets focused on **senti
 - **NLP.ipynb** → Jupyter Notebook with code, explanations, and experiments.
 - **NLP2.ipynb** → Jupyter Notebook with code, explanations, and experiments.
 - **sentiment_examples.txt**
-- **feedback.csv**
+- **feedback_data.csv**
 - **README.md** → Project overview and documentation.
 
 ---
