@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 Advanced NLP Challenges & Production Workspaces
 
 <p align="center">
@@ -87,6 +86,3 @@ python -m spacy download en_core_web_sm
 <p align="center">
 <i>If these industrial NLP modules saved your project setup time, leave a star!</i> ⭐
 </p>
-```
-
-```
