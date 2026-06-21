@@ -1,3 +1,4 @@
+ki
 # 🚀 NLP Challenges & Workspaces
 
 <p align="center">
@@ -49,3 +50,26 @@ Extracting latent themes and parsing consumer feelings.
 ├── 🐍 Python 3.x
 ├── 🛠️ Frameworks: NLTK, spaCy v3.x
 └── 📈 Data Processing: Pandas, NumPy
+---
+
+## 🚀 Quick Start Guide
+
+### 1. Clone & Navigate
+```bash
+git clone [https://github.com/Suman18-bit/NLP_CHALANGES.git](https://github.com/Suman18-bit/NLP_CHALANGES.git)
+cd NLP_CHALANGES
+## 2. Environment Setup & Core Dependencies
+# Create and activate environment
+python -m venv nlp_env
+source nlp_env/bin/activate # On Windows use: nlp_env\Scripts\activate
+
+# Install requirements
+pip install nltk spacy pandas numpy jupyter
+python -m spacy download en_core_web_sm
+
+👤 Developer Profile
+Suman Seth
+👉 GitHub Profile
+<p align="center">
+🌟 <i>If this repository helps your NLP journey, give it a star!</i> 🌟
+</p>
