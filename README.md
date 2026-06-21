@@ -20,7 +20,6 @@
 
 ## 🗺️ Execution Roadmap
 
-```mermaid
 graph LR
     A[🔤 Raw Text Corpus] --> B[📐 Vector Spaces & Representation]
     B --> C[🏷️ Custom Data Annotation]
@@ -33,7 +32,6 @@ graph LR
     style D fill:#1f2937,stroke:#8b5cf6,stroke-width:2px,color:#fff
     style E fill:#1f2937,stroke:#ec4899,stroke-width:2px,color:#fff
 
-```
 ## 📂 Core Development Modules
 ### 📐 1. Text Representations & Feature Spaces
 Transforming linguistic tokens into high-fidelity mathematical vectors (X \in \mathbb{R}^{m \times d}).
@@ -47,7 +45,6 @@ Transforming linguistic tokens into high-fidelity mathematical vectors (X \in \m
   ├─ Word2Vec.ipynb         ──> Continuous distributed contextual word embeddings
   └─ N_Grams.ipynb          ──> Sequence tracking via sliding contextual windows
 
-```
 ### 🧠 2. Custom spaCy NER Architecture
 Industrial-grade sequence labeling leveraging spaCy’s config-driven neural network ecosystem.
  * **Orchestration Notebooks:**
@@ -63,7 +60,7 @@ Industrial-grade sequence labeling leveraging spaCy’s config-driven neural net
  * **Foundations:** NLP.ipynb, NLP2.ipynb, NLP3.ipynb, Precktice.ipynb, NLTK_Applications.ipynb (Text normalization sandbox).
 ## 🛠️ Reproduction Blueprint
 Instantly deploy this workspace on an isolated virtual system layer:
-```bash
+
 # 1. Clone the environment
 git clone [https://github.com/Suman18-bit/NLP_CHALANGES.git](https://github.com/Suman18-bit/NLP_CHALANGES.git)
 cd NLP_CHALANGES
@@ -79,7 +76,6 @@ pip install spacy nltk pandas numpy jupyter notebook scikit-learn
 # 4. Pull down the core optimized English models
 python -m spacy download en_core_web_sm
 
-```
 ## 👨‍💻 Engineer Ecosystem
 **Suman Seth**
  * 🌐 GitHub Portfolio Workspace
