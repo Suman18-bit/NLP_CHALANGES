@@ -1,5 +1,4 @@
 
-```
 # 🚀 NLP Challenges & Workspaces
 
 <p align="center">
@@ -82,4 +81,4 @@ python -m spacy download en_core_web_sm
 <p align="center">
 🌟 <i>If this repository helps your NLP journey, give it a star!</i> 🌟
 </p>
-```
+
